@@ -33,17 +33,17 @@
 - Diretores: Fernando Meirelles, Kátia Lund
 - Nota IMDb: 8,6
 12. A Vida é Bela :sob:
-- Diretor: Roberto Benigni
-- Nota IMDb: 8,6
+    - Diretor: Roberto Benigni
+    - Nota IMDb: 8,6
 13. O Profissional :seedling:
-- Diretor: Luc Besson
-- Nota IMDb: 8,5
+    - Diretor: Luc Besson
+    - Nota IMDb: 8,5
 14. Brilho Eterno de uma Mente sem Lembranças :couple_with_heart:
-- Diretor: Michel Gondry 
-- Nota IMDb: 8,3
+    - Diretor: Michel Gondry 
+    - Nota IMDb: 8,3
 15. Taxi Driver :taxi:
-- Diretor: Martin Scorsese
-- IMDb: 8,2
+    - Diretor: Martin Scorsese
+    - IMDb: 8,2
 16. O Show de Truman: O Show da Vida :clapper:
     - Diretor: Peter Weir
     - Nota IMDb: 8,2
