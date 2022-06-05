@@ -45,5 +45,5 @@
 - Diretor: Martin Scorsese
 - IMDb: 8,2
 16. O Show de Truman: O Show da Vida :clapper:
-  - Diretor: Peter Weir
-  - Nota IMDb: 8,2
+    - Diretor: Peter Weir
+    - Nota IMDb: 8,2
