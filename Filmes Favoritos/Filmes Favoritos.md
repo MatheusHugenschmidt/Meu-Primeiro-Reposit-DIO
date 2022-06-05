@@ -19,7 +19,7 @@
     - Diretor: Stanley Kubrick
     - Nota IMDb: 8,4
 
-5. O Abutre :movie_camera;
+5. O Abutre :movie_camera:
 
     - Diretor: Dan Gilroy
     - Nota IMDb: 7,8 
