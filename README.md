@@ -1,4 +1,4 @@
-# Meu Primeiro Reposit DIO :suspect: 
+# Meu Primeiro Repositório DIO :suspect: 
 Desafio do Bootcamp Decola Tech 3a edição da DIO.
 Um repositório simples para aprender na pratica como funciona o Git/Github
 
